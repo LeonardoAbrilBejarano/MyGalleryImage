@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SliderDemoCustom</string>
+		<string name="activity_name">GalleryPdfPhotoViewerv1</string>
+	<string name="launcher_name">GalleryPdfPhotoViewerv1</string>
+    <string name="title_activity_my_photo_viewer">MyPhotoViewer</string>
+</resources>
